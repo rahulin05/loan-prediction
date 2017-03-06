@@ -4,3 +4,4 @@ MINIMUM_TRACKING_QUARTERS = 4
 TARGET = "foreclosure_status"
 NON_PREDICTORS = [TARGET, "id"]
 CV_FOLDS = 3
+#how are you
